@@ -1,0 +1,12 @@
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.modal img {
+    width: 1112px;
+    margin:0 auto;
+}
